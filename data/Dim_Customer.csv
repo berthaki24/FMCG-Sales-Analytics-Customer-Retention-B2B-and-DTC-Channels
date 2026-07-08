@@ -1,0 +1,794 @@
+Customer ID,Customer Name,Sales_Channel,Country,City,State
+CG-12520,Claire Gute,DTC,United States,Henderson,Kentucky
+DV-13045,Darrin Van Huff,B2B,United States,Los Angeles,California
+SO-20335,Sean O'Donnell,DTC,United States,Fort Lauderdale,Florida
+BH-11710,Brosina Hoffman,DTC,United States,Los Angeles,California
+AA-10480,Andrew Allen,DTC,United States,Concord,North Carolina
+IM-15070,Irene Maddox,DTC,United States,Seattle,Washington
+HP-14815,Harold Pawlan,B2B,United States,Fort Worth,Texas
+PK-19075,Pete Kriz,DTC,United States,Madison,Wisconsin
+AG-10270,Alejandro Grove,DTC,United States,West Jordan,Utah
+ZD-21925,Zuschuss Donatelli,DTC,United States,San Francisco,California
+KB-16585,Ken Black,B2B,United States,Fremont,Nebraska
+SF-20065,Sandra Flanagan,DTC,United States,Philadelphia,Pennsylvania
+EB-13870,Emily Burns,DTC,United States,Orem,Utah
+EH-13945,Eric Hoffmann,DTC,United States,Los Angeles,California
+TB-21520,Tracy Blumstein,DTC,United States,Philadelphia,Pennsylvania
+MA-17560,Matt Abelman,B2B,United States,Houston,Texas
+GH-14485,Gene Hale,B2B,United States,Richardson,Texas
+SN-20710,Steve Nguyen,B2B,United States,Houston,Texas
+LC-16930,Linda Cazamias,B2B,United States,Naperville,Illinois
+RA-19885,Ruben Ausman,B2B,United States,Los Angeles,California
+ES-14080,Erin Smith,B2B,United States,Melbourne,Florida
+ON-18715,Odella Nelson,B2B,United States,Eagan,Minnesota
+PO-18865,Patrick O'Donnell,DTC,United States,Westland,Michigan
+LH-16900,Lena Hernandez,DTC,United States,Dover,Delaware
+DP-13000,Darren Powers,DTC,United States,New Albany,Indiana
+JM-15265,Janet Molinari,B2B,United States,New York City,New York
+TB-21055,Ted Butterfield,DTC,United States,Troy,New York
+KM-16720,Kunst Miller,DTC,United States,Los Angeles,California
+PS-18970,Paul Stevenson,B2B,United States,Chicago,Illinois
+BS-11590,Brendan Sweed,B2B,United States,Gilbert,Arizona
+KD-16270,Karen Daniels,DTC,United States,Springfield,Virginia
+HM-14980,Henry MacAllister,DTC,United States,New York City,New York
+JE-15745,Joel Eaton,DTC,United States,Memphis,Tennessee
+KB-16600,Ken Brennan,B2B,United States,Houston,Texas
+SC-20770,Stewart Carmichael,B2B,United States,Decatur,Alabama
+DN-13690,Duane Noonan,DTC,United States,San Francisco,California
+JC-16105,Julie Creighton,B2B,United States,Durham,North Carolina
+CS-12400,Christopher Schild,B2B,United States,Chicago,Illinois
+PG-18895,Paul Gonzalez,DTC,United States,Rochester,Minnesota
+GM-14455,Gary Mitchum,B2B,United States,Houston,Texas
+JS-15685,Jim Sink,B2B,United States,Los Angeles,California
+KB-16315,Karl Braun,DTC,United States,Minneapolis,Minnesota
+RB-19705,Roger Barcio,B2B,United States,Portland,Oregon
+PN-18775,Parhena Norris,B2B,United States,New York City,New York
+KD-16345,Katherine Ducich,DTC,United States,San Francisco,California
+ER-13855,Elpida Rittenbach,B2B,United States,Saint Paul,Minnesota
+RB-19465,Rick Bensley,B2B,United States,Chicago,Illinois
+GZ-14470,Gary Zandusky,DTC,United States,Rochester,Minnesota
+LC-16870,Lena Cacioppo,DTC,United States,Aurora,Colorado
+JM-15250,Janet Martin,DTC,United States,Charlotte,North Carolina
+PA-19060,Pete Armstrong,B2B,United States,Orland Park,Illinois
+CV-12805,Cynthia Voltz,B2B,United States,New York City,New York
+CL-12565,Clay Ludtke,DTC,United States,Urbandale,Iowa
+RC-19960,Ryan Crowe,DTC,United States,Columbus,Ohio
+DK-13090,Dave Kipp,DTC,United States,Seattle,Washington
+GG-14650,Greg Guthrie,B2B,United States,Bristol,Tennessee
+SC-20725,Steven Cartwright,DTC,United States,Wilmington,Delaware
+AD-10180,Alan Dominguez,B2B,United States,Houston,Texas
+PF-19165,Philip Fox,DTC,United States,Bloomington,Illinois
+TS-21610,Troy Staebel,DTC,United States,Phoenix,Arizona
+LS-16975,Lindsay Shagiari,B2B,United States,Los Angeles,California
+DW-13585,Dorothy Wardle,B2B,United States,Columbus,Ohio
+LC-16885,Lena Creighton,DTC,United States,Roseville,California
+JD-15895,Jonathan Doherty,B2B,United States,Philadelphia,Pennsylvania
+SH-19975,Sally Hughsby,B2B,United States,San Francisco,California
+SG-20080,Sandra Glassco,DTC,United States,Independence,Missouri
+HA-14920,Helen Andreada,DTC,United States,Pasadena,California
+MG-17680,Maureen Gastineau,B2B,United States,Newark,Ohio
+JE-16165,Justin Ellison,B2B,United States,Franklin,Wisconsin
+TW-21025,Tamara Willingham,B2B,United States,Scottsdale,Arizona
+SP-20650,Stephanie Phelps,B2B,United States,San Jose,California
+NK-18490,Neil Knudson,B2B,United States,Seattle,Washington
+DB-13060,Dave Brooks,DTC,United States,Seattle,Washington
+NP-18670,Nora Paige,DTC,United States,Edmond,Oklahoma
+TT-21070,Ted Trevino,DTC,United States,Los Angeles,California
+EM-13960,Eric Murdock,DTC,United States,Philadelphia,Pennsylvania
+RD-19900,Ruben Dartt,DTC,United States,Carlsbad,New Mexico
+MJ-17740,Max Jones,DTC,United States,Seattle,Washington
+BM-11140,Becky Martin,DTC,United States,San Antonio,Texas
+CS-12130,Chad Sievert,DTC,United States,Los Angeles,California
+JB-15400,Jennifer Braxton,B2B,United States,Chicago,Illinois
+SJ-20500,Shirley Jackson,DTC,United States,Houston,Texas
+JK-15640,Jim Kriz,B2B,United States,New York City,New York
+DK-13150,David Kendrick,B2B,United States,Decatur,Illinois
+RM-19675,Robert Marley,B2B,United States,Monroe,Louisiana
+SK-19990,Sally Knutson,DTC,United States,Fairfield,Connecticut
+FM-14290,Frank Merwin,B2B,United States,Los Angeles,California
+AM-10360,Alice McCarthy,B2B,United States,Grand Prairie,Texas
+MP-17470,Mark Packer,B2B,United States,New York City,New York
+MZ-17515,Mary Zewe,B2B,United States,Redlands,California
+CB-12025,Cassandra Brandow,DTC,United States,Hamilton,Ohio
+VM-21685,Valerie Mitchum,B2B,United States,Westfield,New Jersey
+FH-14365,Fred Hopkins,B2B,United States,Philadelphia,Pennsylvania
+MB-17305,Maria Bertelson,DTC,United States,Akron,Ohio
+BS-11755,Bruce Stewart,DTC,United States,Denver,Colorado
+LC-17140,Logan Currie,DTC,United States,Dallas,Texas
+HK-14890,Heather Kirkland,B2B,United States,Franklin,Tennessee
+LE-16810,Laurel Elliston,DTC,United States,Whittier,California
+JH-15985,Joseph Holt,DTC,United States,Saginaw,Michigan
+MS-17980,Michael Stewart,B2B,United States,Dallas,Texas
+VW-21775,Victoria Wilson,B2B,United States,Medina,Ohio
+JH-15910,Jonathan Howell,DTC,United States,Los Angeles,California
+JB-15925,Joni Blumstein,DTC,United States,Dublin,Ohio
+DS-13180,David Smith,B2B,United States,Detroit,Michigan
+VD-21670,Valerie Dominguez,DTC,United States,Columbia,Tennessee
+EA-14035,Erin Ashbrook,B2B,United States,Charlotte,North Carolina
+DB-13120,David Bremer,B2B,United States,Santa Clara,California
+KL-16645,Ken Lonsdale,DTC,United States,Chicago,Illinois
+DW-13480,Dianna Wilson,B2B,United States,Lakeville,Minnesota
+LH-17155,Logan Haushalter,DTC,United States,San Francisco,California
+KC-16540,Kelly Collister,DTC,United States,San Diego,California
+DL-13315,Delfina Latchford,DTC,United States,New York City,New York
+DR-12880,Dan Reichenbach,B2B,United States,Chicago,Illinois
+CC-12670,Craig Carreira,DTC,United States,New York City,New York
+Dl-13600,Dorris liebe,B2B,United States,Pasadena,Texas
+SB-20290,Sean Braxton,B2B,United States,Houston,Texas
+RC-19825,Roy Collins,DTC,United States,Chicago,Illinois
+AH-10210,Alan Hwang,DTC,United States,Brentwood,California
+CB-12535,Claudia Bergmann,B2B,United States,Chapel Hill,North Carolina
+CA-12310,Christine Abelman,B2B,United States,Cincinnati,Ohio
+KH-16690,Kristen Hastings,B2B,United States,San Francisco,California
+BB-10990,Barry Blumstein,B2B,United States,Inglewood,California
+AG-10495,Andrew Gjertsen,B2B,United States,Philadelphia,Pennsylvania
+JO-15280,Jas O'Carroll,DTC,United States,Los Angeles,California
+AH-10195,Alan Haines,B2B,United States,Tamarac,Florida
+NZ-18565,Nick Zandusky,B2B,United States,Columbus,Ohio
+KL-16555,Kelly Lampkin,B2B,United States,Colorado Springs,Colorado
+AS-10225,Alan Schoenberger,B2B,United States,New York City,New York
+CR-12625,Corey Roper,B2B,United States,Lakewood,New Jersey
+SH-20395,Shahid Hopkins,DTC,United States,Arlington,Virginia
+BP-11185,Ben Peterman,B2B,United States,Arvada,Colorado
+TS-21205,Thomas Seio,B2B,United States,Hackensack,New Jersey
+AG-10525,Andy Gerbode,B2B,United States,Saint Petersburg,Florida
+SP-20860,Sung Pak,B2B,United States,Philadelphia,Pennsylvania
+NM-18445,Nathan Mautz,B2B,United States,New York City,New York
+FA-14230,Frank Atkinson,B2B,United States,Long Beach,California
+GK-14620,Grace Kelly,B2B,United States,Hesperia,California
+DJ-13510,Don Jones,B2B,United States,Murfreesboro,Tennessee
+PO-18850,Patrick O'Brill,DTC,United States,Philadelphia,Pennsylvania
+JL-15850,John Lucas,DTC,United States,Philadelphia,Pennsylvania
+DB-13615,Doug Bickford,DTC,United States,Los Angeles,California
+AC-10420,Alyssa Crouse,B2B,United States,San Francisco,California
+CC-12550,Clay Cheatham,DTC,United States,San Francisco,California
+TD-20995,Tamara Dahlen,DTC,United States,Lowell,Massachusetts
+AB-10060,Adam Bellavance,B2B,United States,New York City,New York
+JL-15505,Jeremy Lonsdale,DTC,United States,New York City,New York
+VB-21745,Victoria Brennan,B2B,United States,Columbus,Georgia
+KW-16435,Katrina Willman,DTC,United States,New York City,New York
+JD-16060,Julia Dunbar,DTC,United States,San Francisco,California
+MK-17905,Michael Kennedy,B2B,United States,Manchester,Connecticut
+GT-14755,Guy Thornton,DTC,United States,Harlingen,Texas
+AG-10900,Arthur Gainer,DTC,United States,Tucson,Arizona
+MM-18280,Muhammed MacIntyre,B2B,United States,Quincy,Illinois
+AR-10405,Allen Rosenblatt,B2B,United States,Franklin,Massachusetts
+RA-19915,Russell Applegate,DTC,United States,Houston,Texas
+AS-10285,Alejandro Savely,B2B,United States,San Francisco,California
+LA-16780,Laura Armstrong,B2B,United States,Taylor,Michigan
+DO-13435,Denny Ordway,DTC,United States,Pembroke Pines,Florida
+DK-13225,Dean Katz,B2B,United States,Philadelphia,Pennsylvania
+NG-18430,Nathan Gelder,DTC,United States,Cincinnati,Ohio
+MV-18190,Mike Vittorini,DTC,United States,New York City,New York
+JG-15115,Jack Garza,DTC,United States,Des Moines,Washington
+BP-11095,Bart Pistole,B2B,United States,Peoria,Illinois
+VP-21730,Victor Preis,B2B,United States,Las Vegas,Nevada
+SS-20140,Saphhira Shifley,B2B,United States,Warwick,Rhode Island
+AG-10675,Anna Gayman,DTC,United States,Houston,Texas
+LF-17185,Luke Foster,DTC,United States,Miami,Florida
+RF-19840,Roy Französisch,DTC,United States,New York City,New York
+KH-16510,Keith Herrera,DTC,United States,San Francisco,California
+KC-16675,Kimberly Carter,B2B,United States,Seattle,Washington
+CJ-12010,Caroline Jumper,DTC,United States,Huntington Beach,California
+PB-19150,Philip Brown,DTC,United States,Los Angeles,California
+MP-17965,Michael Paige,B2B,United States,Lawrence,Massachusetts
+NF-18385,Natalie Fritzler,DTC,United States,Jackson,Mississippi
+SD-20485,Shirley Daniels,B2B,United States,New Rochelle,New York
+KH-16630,Ken Heidel,B2B,United States,San Antonio,Texas
+RB-19795,Ross Baird,B2B,United States,Gastonia,North Carolina
+MK-18160,Mike Kennedy,DTC,United States,Jacksonville,Florida
+PO-19180,Philisse Overcash,B2B,United States,Chicago,Illinois
+BB-11545,Brenda Bowman,B2B,United States,Houston,Texas
+TB-21595,Troy Blackwell,DTC,United States,Columbus,Indiana
+RB-19360,Raymond Buch,DTC,United States,Auburn,New York
+EB-13705,Ed Braxton,B2B,United States,Akron,Ohio
+SC-20095,Sanjit Chand,DTC,United States,Concord,California
+TN-21040,Tanja Norvell,B2B,United States,Phoenix,Arizona
+JS-15940,Joni Sundaresam,B2B,United States,Park Ridge,Illinois
+MH-17785,Maya Herman,B2B,United States,Lindenhurst,New York
+JP-15520,Jeremy Pistek,DTC,United States,San Francisco,California
+JE-15475,Jeremy Ellison,DTC,United States,Troy,New York
+JG-15805,John Grady,B2B,United States,New York City,New York
+XP-21865,Xylona Preis,DTC,United States,San Diego,California
+EM-14065,Erin Mull,DTC,United States,New York City,New York
+MT-18070,Michelle Tran,B2B,United States,Los Angeles,California
+SA-20830,Sue Ann Reed,DTC,United States,Chicago,Illinois
+CW-11905,Carl Weiss,B2B,United States,Huntsville,Texas
+AJ-10960,Astrea Jones,DTC,United States,Rochester,New York
+SS-20590,Sonia Sunley,DTC,United States,Seattle,Washington
+RO-19780,Rose O'Brian,DTC,United States,Memphis,Tennessee
+MD-17350,Maribeth Dona,DTC,United States,Fayetteville,Arkansas
+MY-17380,Maribeth Yedwab,B2B,United States,Parker,Colorado
+CM-12385,Christopher Martinez,DTC,United States,Atlanta,Georgia
+LS-17245,Lynn Smith,DTC,United States,Gladstone,Missouri
+BN-11515,Bradley Nguyen,DTC,United States,Los Angeles,California
+DB-13210,Dean Braden,DTC,United States,Houston,Texas
+MC-17605,Matt Connell,B2B,United States,Detroit,Michigan
+BD-11605,Brian Dahlen,DTC,United States,Lawrence,Massachusetts
+PH-18790,Patricia Hirasaki,B2B,United States,Lakeland,Florida
+MG-18145,Mike Gockenbach,DTC,United States,Philadelphia,Pennsylvania
+KB-16240,Karen Bern,B2B,United States,Los Angeles,California
+JC-15340,Jasper Cacioppo,DTC,United States,Los Angeles,California
+RL-19615,Rob Lucas,DTC,United States,Montgomery,Alabama
+AA-10375,Allen Armold,DTC,United States,Mesa,Arizona
+EP-13915,Emily Phan,DTC,United States,Chicago,Illinois
+DK-12985,Darren Koutras,DTC,United States,Henderson,Kentucky
+BD-11500,Bradley Drucker,DTC,United States,Green Bay,Wisconsin
+LM-17065,Liz MacKendrick,DTC,United States,Springfield,Ohio
+AS-10135,Adrian Shami,B2B,United States,New York City,New York
+BD-11320,Bill Donatelli,DTC,United States,San Francisco,California
+GT-14710,Greg Tran,DTC,United States,Houston,Texas
+AJ-10945,Ashley Jarboe,DTC,United States,Wilmington,North Carolina
+OT-18730,Olvera Toch,DTC,United States,Los Angeles,California
+LP-17080,Liz Pelletier,DTC,United States,San Francisco,California
+CA-12775,Cynthia Arntzen,DTC,United States,Tampa,Florida
+JF-15490,Jeremy Farry,DTC,United States,Seattle,Washington
+FP-14320,Frank Preis,DTC,United States,Los Angeles,California
+EB-13840,Ellis Ballard,B2B,United States,Seattle,Washington
+JF-15415,Jennifer Ferguson,DTC,United States,New York City,New York
+SF-20200,Sarah Foster,DTC,United States,Marysville,Washington
+TG-21640,Trudy Glocke,DTC,United States,Long Beach,California
+CS-11950,Carlos Soltero,DTC,United States,Chicago,Illinois
+CC-12145,Charles Crestani,DTC,United States,Los Angeles,California
+DV-13465,Dianna Vittorini,DTC,United States,Denver,Colorado
+BD-11725,Bruce Degenhardt,DTC,United States,Richmond,Kentucky
+ZC-21910,Zuschuss Carroll,DTC,United States,Salem,Oregon
+MS-17830,Melanie Seite,DTC,United States,Laredo,Texas
+LR-16915,Lena Radford,DTC,United States,San Diego,California
+TP-21130,Theone Pippenger,DTC,United States,Philadelphia,Pennsylvania
+CK-12205,Chloris Kastensmidt,DTC,United States,Philadelphia,Pennsylvania
+AS-10240,Alan Shonely,DTC,United States,Tampa,Florida
+AR-10510,Andrew Roberts,DTC,United States,Philadelphia,Pennsylvania
+NB-18655,Nona Balk,B2B,United States,Dallas,Texas
+GD-14590,Giulietta Dortch,B2B,United States,Philadelphia,Pennsylvania
+CK-12595,Clytie Kelty,DTC,United States,Grove City,Ohio
+NG-18355,Nat Gilpin,B2B,United States,New York City,New York
+CA-12265,Christina Anderson,DTC,United States,Chicago,Illinois
+SF-20965,Sylvia Foulston,B2B,United States,Dearborn,Michigan
+MO-17800,Meg O'Connel,B2B,United States,New York City,New York
+AT-10735,Annie Thurman,DTC,United States,Seattle,Washington
+FM-14380,Fred McMath,DTC,United States,Aurora,Colorado
+DJ-13420,Denny Joy,B2B,United States,Warner Robins,Georgia
+ME-17725,Max Engle,DTC,United States,Aurora,Colorado
+JD-16150,Justin Deggeller,B2B,United States,Minneapolis,Minnesota
+JL-15835,John Lee,DTC,United States,Mission Viejo,California
+SC-20305,Sean Christensen,DTC,United States,Rochester Hills,Michigan
+CC-12430,Chuck Clark,B2B,United States,Columbus,Indiana
+AR-10825,Anthony Rawles,B2B,United States,Vancouver,Washington
+SR-20740,Steven Roelle,B2B,United States,New York City,New York
+CR-12730,Craig Reiter,DTC,United States,Columbus,Ohio
+EH-14125,Eugene Hildebrand,B2B,United States,Aurora,Illinois
+SP-20545,Sibella Parks,B2B,United States,New York City,New York
+TH-21235,Tiffany House,B2B,United States,Dallas,Texas
+RP-19390,Resi Pölking,DTC,United States,Cleveland,Ohio
+RB-19570,Rob Beeghly,DTC,United States,Columbus,Indiana
+CD-11980,Carol Darley,DTC,United States,Tyler,Texas
+DJ-13630,Doug Jacobs,DTC,United States,New York City,New York
+GT-14635,Grant Thornton,B2B,United States,Burlington,North Carolina
+MC-17845,Michael Chen,DTC,United States,Jackson,Mississippi
+RA-19285,Ralph Arnett,DTC,United States,New York City,New York
+NP-18325,Naresj Patel,DTC,United States,Waynesboro,Virginia
+AB-10165,Alan Barnes,DTC,United States,Los Angeles,California
+JO-15550,Jesus Ocampo,B2B,United States,Chester,Pennsylvania
+JK-15370,Jay Kimmel,DTC,United States,Long Beach,California
+BN-11470,Brad Norvell,B2B,United States,Cary,North Carolina
+DP-13165,David Philippe,DTC,United States,New York City,New York
+TH-21550,Tracy Hopkins,B2B,United States,New York City,New York
+AP-10915,Arthur Prichep,DTC,United States,Palm Coast,Florida
+RS-19765,Roland Schwarz,B2B,United States,Mount Vernon,New York
+SV-20365,Seth Vernon,DTC,United States,Dover,Delaware
+CK-12325,Christine Kargatis,B2B,United States,Orem,Utah
+RD-19810,Ross DeVincentis,B2B,United States,Los Angeles,California
+MR-17545,Mathew Reese,B2B,United States,Philadelphia,Pennsylvania
+SC-20695,Steve Chapman,B2B,United States,Hialeah,Florida
+JF-15355,Jay Fein,DTC,United States,Austin,Texas
+EG-13900,Emily Grady,DTC,United States,Oceanside,New York
+DS-13030,Darrin Sayre,B2B,United States,Seattle,Washington
+PO-19195,Phillina Ober,B2B,United States,Naperville,Illinois
+SS-20875,Sung Shariari,DTC,United States,Dallas,Texas
+PB-19105,Peter Bühler,DTC,United States,Evanston,Illinois
+RF-19735,Roland Fjeld,DTC,United States,Trenton,Michigan
+YC-21895,Yoseph Carroll,B2B,United States,San Francisco,California
+DC-13285,Debra Catini,DTC,United States,Cottage Grove,Minnesota
+CP-12340,Christine Phan,B2B,United States,New York City,New York
+BF-11020,Barry Französisch,B2B,United States,Green Bay,Wisconsin
+LH-17020,Lisa Hazard,DTC,United States,Columbus,Ohio
+CS-12250,Chris Selesnick,B2B,United States,Bossier City,Louisiana
+AJ-10795,Anthony Johnson,B2B,United States,Saint Petersburg,Florida
+BV-11245,Benjamin Venier,B2B,United States,Des Moines,Iowa
+DL-12865,Dan Lawera,DTC,United States,Cincinnati,Ohio
+BM-11785,Bryan Mills,DTC,United States,Columbus,Ohio
+LT-17110,Liz Thompson,DTC,United States,Lancaster,California
+JK-15730,Joe Kamberova,DTC,United States,Asheville,North Carolina
+ES-14020,Erica Smith,DTC,United States,San Francisco,California
+RH-19495,Rick Hansen,DTC,United States,Rochester,Minnesota
+CD-11920,Carlos Daly,DTC,United States,Lake Elsinore,California
+HW-14935,Helen Wasserman,B2B,United States,San Diego,California
+MC-18130,Mike Caudle,B2B,United States,Monroe,Louisiana
+GM-14440,Gary McGarr,DTC,United States,San Francisco,California
+PJ-19015,Pauline Johnson,DTC,United States,Santa Ana,California
+BW-11110,Bart Watters,B2B,United States,Milwaukee,Wisconsin
+TR-21325,Toby Ritter,DTC,United States,Belleville,New Jersey
+PG-18820,Patrick Gardner,DTC,United States,San Francisco,California
+JL-15175,James Lanier,B2B,United States,Columbia,Tennessee
+BM-11650,Brian Moss,B2B,United States,New York City,New York
+EM-14095,Eudokia Martin,B2B,United States,Los Angeles,California
+AF-10885,Art Foster,DTC,United States,Louisville,Kentucky
+GA-14725,Guy Armstrong,DTC,United States,Lorain,Ohio
+CK-12760,Cyma Kinney,B2B,United States,Linden,New Jersey
+DP-13105,Dave Poirier,B2B,United States,Salinas,California
+BK-11260,Berenike Kampe,DTC,United States,New York City,New York
+SJ-20125,Sanjit Jacobs,B2B,United States,New Brunswick,New Jersey
+CM-12445,Chuck Magee,DTC,United States,San Francisco,California
+AJ-10780,Anthony Jacobs,B2B,United States,Springfield,Virginia
+LS-16945,Linda Southworth,B2B,United States,Philadelphia,Pennsylvania
+GP-14740,Guy Phonely,B2B,United States,Lancaster,Pennsylvania
+PK-18910,Paul Knutson,B2B,United States,Philadelphia,Pennsylvania
+SM-20005,Sally Matthias,DTC,United States,New York City,New York
+AG-10765,Anthony Garverick,B2B,United States,Philadelphia,Pennsylvania
+PM-19135,Peter McVee,B2B,United States,Detroit,Michigan
+LL-16840,Lauren Leatherbury,DTC,United States,Rochester,New York
+JS-15595,Jill Stevenson,B2B,United States,Los Angeles,California
+EL-13735,Ed Ludwig,B2B,United States,Columbia,Maryland
+PC-18745,Pamela Coakley,B2B,United States,San Francisco,California
+HL-15040,Hunter Lopez,DTC,United States,Houston,Texas
+MS-17365,Maribeth Schnelling,DTC,United States,Detroit,Michigan
+GB-14530,George Bell,B2B,United States,Auburn,New York
+JR-16210,Justin Ritter,B2B,United States,Springfield,Ohio
+BE-11335,Bill Eplett,B2B,United States,Jackson,Michigan
+SC-20050,Sample Company A,B2B,United States,Norwich,Connecticut
+RW-19630,Rob Williams,B2B,United States,Dallas,Texas
+SE-20110,Sanjit Engle,DTC,United States,New York City,New York
+AH-10075,Adam Hart,B2B,United States,New York City,New York
+JM-15535,Jessica Myrick,DTC,United States,Philadelphia,Pennsylvania
+JJ-15760,Joel Jenkins,B2B,United States,Springfield,Virginia
+RK-19300,Ralph Kennedy,DTC,United States,Philadelphia,Pennsylvania
+CG-12040,Catherine Glotzbach,B2B,United States,Philadelphia,Pennsylvania
+RP-19270,Rachel Payne,B2B,United States,Riverside,California
+KC-16255,Karen Carlisle,B2B,United States,San Francisco,California
+KH-16360,Katherine Hughes,DTC,United States,Philadelphia,Pennsylvania
+GH-14665,Greg Hansen,DTC,United States,Round Rock,Texas
+SW-20275,Scott Williamson,DTC,United States,Jackson,Mississippi
+JA-15970,Joseph Airdo,DTC,United States,Phoenix,Arizona
+DL-12925,Daniel Lacy,DTC,United States,Oceanside,California
+LW-16990,Lindsay Williams,B2B,United States,San Francisco,California
+TB-21190,Thomas Brumley,B2B,United States,Fayetteville,Arkansas
+BS-11800,Bryan Spruell,B2B,United States,New York City,New York
+RW-19690,Robert Waldorf,DTC,United States,Wilmington,North Carolina
+TZ-21580,Tracy Zic,DTC,United States,Louisville,Colorado
+AS-10630,Ann Steele,B2B,United States,Pasadena,Texas
+TS-21340,Toby Swindell,DTC,United States,Houston,Texas
+SL-20155,Sara Luxemburg,B2B,United States,Jacksonville,Florida
+MW-18235,Mitch Willingham,B2B,United States,Virginia Beach,Virginia
+RD-19585,Rob Dowd,DTC,United States,Henderson,Kentucky
+RA-19945,Ryan Akin,DTC,United States,Murrieta,California
+MT-17815,Meg Tillman,DTC,United States,Scottsdale,Arizona
+VG-21790,Vivek Gonzalez,DTC,United States,San Diego,California
+JS-15880,John Stevenson,DTC,United States,Seattle,Washington
+KM-16225,Kalyca Meade,B2B,United States,New York City,New York
+HR-14770,Hallie Redmond,B2B,United States,Los Angeles,California
+DE-13255,Deanra Eno,B2B,United States,Springfield,Ohio
+AG-10390,Allen Goldenen,DTC,United States,Cincinnati,Ohio
+JJ-15445,Jennifer Jackson,DTC,United States,Los Angeles,California
+JH-15430,Jennifer Halladay,DTC,United States,Burlington,North Carolina
+RD-19660,Robert Dilbeck,B2B,United States,Saint Peters,Missouri
+MO-17500,Mary O'Rourke,DTC,United States,New York City,New York
+NS-18640,Noel Staavos,B2B,United States,Chicago,Illinois
+DG-13300,Deirdre Greer,B2B,United States,Philadelphia,Pennsylvania
+NF-18595,Nicole Fjeld,B2B,United States,New York City,New York
+MG-17650,Matthew Grinstein,B2B,United States,Philadelphia,Pennsylvania
+TS-21160,Theresa Swint,B2B,United States,Toledo,Ohio
+BD-11620,Brian DeCherney,DTC,United States,San Francisco,California
+CM-12160,Charles McCrossin,DTC,United States,Brownsville,Texas
+SN-20560,Skye Norling,B2B,United States,Los Angeles,California
+EH-14005,Erica Hernandez,B2B,United States,Denver,Colorado
+FO-14305,Frank Olsen,DTC,United States,New York City,New York
+MS-17710,Maurice Satty,DTC,United States,Mesa,Arizona
+CC-12100,Chad Cunningham,B2B,United States,Columbus,Indiana
+DW-13540,Don Weiss,DTC,United States,Seattle,Washington
+BT-11395,Bill Tyler,B2B,United States,Detroit,Michigan
+CY-12745,Craig Yedwab,B2B,United States,Oakland,California
+BT-11485,Brad Thomas,B2B,United States,Clinton,Maryland
+PS-19045,Penelope Sewall,B2B,United States,Charlotte,North Carolina
+PV-18985,Paul Van Hugh,B2B,United States,San Francisco,California
+NM-18520,Neoma Murray,DTC,United States,Riverside,California
+DL-13495,Dionis Lloyd,B2B,United States,San Francisco,California
+CS-12355,Christine Sundaresam,DTC,United States,Roswell,Georgia
+FH-14275,Frank Hawley,B2B,United States,La Porte,Indiana
+NC-18340,Nat Carroll,DTC,United States,Lansing,Michigan
+AA-10315,Alex Avila,DTC,United States,Minneapolis,Minnesota
+LT-16765,Larry Tron,DTC,United States,Escondido,California
+AP-10720,Anne Pryor,B2B,United States,New York City,New York
+PM-18940,Paul MacIntyre,DTC,United States,Jackson,Michigan
+AT-10435,Alyssa Tate,B2B,United States,Los Angeles,California
+CA-12055,Cathy Armstrong,B2B,United States,Houston,Texas
+HR-14830,Harold Ryan,B2B,United States,Seattle,Washington
+BT-11530,Bradley Talbott,B2B,United States,Los Angeles,California
+LH-16750,Larry Hughes,DTC,United States,Charlotte,North Carolina
+SW-20755,Steven Ward,B2B,United States,New York City,New York
+SP-20620,Stefania Perrino,B2B,United States,Philadelphia,Pennsylvania
+BF-11170,Ben Ferrer,B2B,United States,Los Angeles,California
+KT-16480,Kean Thornton,DTC,United States,Buffalo,New York
+BG-11695,Brooke Gillingham,B2B,United States,Cincinnati,Ohio
+GM-14680,Greg Matthias,DTC,United States,Seattle,Washington
+EJ-14155,Eva Jacobs,DTC,United States,Gulfport,Mississippi
+NP-18700,Nora Preis,DTC,United States,Fresno,California
+MH-18115,Mick Hernandez,B2B,United States,Chester,Pennsylvania
+JR-15700,Jocasta Rupert,DTC,United States,Jacksonville,Florida
+SM-20950,Suzanne McNair,B2B,United States,Greenville,North Carolina
+CC-12220,Chris Cortes,DTC,United States,La Porte,Indiana
+PF-19225,Phillip Flathmann,DTC,United States,San Francisco,California
+DC-12850,Dan Campbell,DTC,United States,Florence,Alabama
+BD-11770,Bryan Davis,DTC,United States,Houston,Texas
+GM-14500,Gene McClure,DTC,United States,Providence,Rhode Island
+TB-21355,Todd Boyes,B2B,United States,New York City,New York
+JH-16180,Justin Hirsh,DTC,United States,Pueblo,Colorado
+EB-13975,Erica Bern,B2B,United States,Fairfield,California
+QJ-19255,Quincy Jones,B2B,United States,Saint Paul,Minnesota
+TC-21535,Tracy Collins,B2B,United States,Arlington,Virginia
+CS-12460,Chuck Sachs,DTC,United States,Columbus,Georgia
+HG-14965,Henry Goldwyn,B2B,United States,Los Angeles,California
+LW-16825,Laurel Workman,B2B,United States,Deltona,Florida
+MC-17575,Matt Collins,DTC,United States,Cincinnati,Ohio
+LP-17095,Liz Preis,DTC,United States,Murray,Kentucky
+EB-14170,Evan Bailliet,DTC,United States,Wilmington,North Carolina
+GZ-14545,George Zrebassa,B2B,United States,Lawrence,Massachusetts
+CP-12085,Cathy Prescott,B2B,United States,Norwich,Connecticut
+FG-14260,Frank Gastineau,B2B,United States,San Francisco,California
+LD-17005,Lisa DeCherney,DTC,United States,San Francisco,California
+AB-10255,Alejandro Ballentine,B2B,United States,Lorain,Ohio
+MN-17935,Michael Nguyen,DTC,United States,Dallas,Texas
+JR-15670,Jim Radford,DTC,United States,Middletown,Connecticut
+JF-15190,Jamie Frazer,DTC,United States,Los Angeles,California
+CM-12115,Chad McGuire,DTC,United States,New York City,New York
+AS-10045,Aaron Smayling,B2B,United States,Jacksonville,North Carolina
+BP-11290,Beth Paige,DTC,United States,Evanston,Illinois
+ND-18370,Natalie DeCherney,DTC,United States,Louisville,Kentucky
+LB-16735,Larry Blacks,DTC,United States,Fort Worth,Texas
+KT-16465,Kean Takahito,DTC,United States,Los Angeles,California
+HM-14860,Harry Marie,B2B,United States,Philadelphia,Pennsylvania
+AB-10600,Ann Blume,B2B,United States,Tucson,Arizona
+SZ-20035,Sam Zeldin,B2B,United States,Pico Rivera,California
+MG-17890,Michael Granlund,B2B,United States,Clinton,Maryland
+JK-16120,Julie Kriz,B2B,United States,Aurora,Illinois
+PP-18955,Paul Prost,B2B,United States,Smyrna,Georgia
+YS-21880,Yana Sorensen,B2B,United States,Burlington,North Carolina
+KM-16375,Katherine Murray,B2B,United States,Salem,Virginia
+AB-10105,Adrian Barton,DTC,United States,Phoenix,Arizona
+HA-14905,Helen Abelman,DTC,United States,New York City,New York
+BT-11305,Beth Thompson,B2B,United States,Costa Mesa,California
+SV-20815,Stuart Van,B2B,United States,Houston,Texas
+RW-19540,Rick Wilson,B2B,United States,Mesa,Arizona
+DK-12835,Damala Kotsonis,B2B,United States,Salinas,California
+ST-20530,Shui Tom,DTC,United States,Parma,Ohio
+MM-17920,Michael Moore,DTC,United States,San Francisco,California
+PW-19030,Pauline Webber,B2B,United States,Richmond,Kentucky
+SC-20440,Shaun Chance,B2B,United States,Aurora,Colorado
+TS-21085,Thais Sissman,DTC,United States,Phoenix,Arizona
+MC-17425,Mark Cousins,B2B,United States,Mobile,Alabama
+ME-17320,Maria Etezadi,B2B,United States,Columbus,Georgia
+NH-18610,Nicole Hansen,B2B,United States,Irving,Texas
+MB-18085,Mick Brown,DTC,United States,Vineland,New Jersey
+KD-16495,Keith Dawkins,B2B,United States,New York City,New York
+KN-16390,Katherine Nockton,B2B,United States,Los Angeles,California
+NP-18685,Nora Pelletier,B2B,United States,Niagara Falls,New York
+CS-12505,Cindy Stewart,DTC,United States,Thomasville,North Carolina
+MS-17770,Maxwell Schwartz,DTC,United States,New York City,New York
+CM-12655,Corinna Mitchell,B2B,United States,Los Angeles,California
+Co-12640,Corey-Lock,DTC,United States,Philadelphia,Pennsylvania
+TS-21370,Todd Sumrall,B2B,United States,New York City,New York
+JW-15220,Jane Waco,B2B,United States,Vancouver,Washington
+JD-15790,John Dryer,DTC,United States,Coppell,Texas
+PC-19000,Pauline Chand,B2B,United States,Los Angeles,California
+AR-10540,Andy Reiter,DTC,United States,New York City,New York
+AI-10855,Arianne Irving,DTC,United States,Philadelphia,Pennsylvania
+TB-21400,Tom Boeckenhauer,DTC,United States,Seattle,Washington
+PL-18925,Paul Lucas,B2B,United States,Chicago,Illinois
+GH-14425,Gary Hwang,DTC,United States,Tucson,Arizona
+MP-18175,Mike Pelletier,B2B,United States,Laguna Niguel,California
+JM-15655,Jim Mitchum,B2B,United States,Bridgeton,New Jersey
+CL-11890,Carl Ludwig,DTC,United States,Everett,Massachusetts
+DB-13270,Deborah Brumfield,B2B,United States,San Diego,California
+IG-15085,Ivan Gibson,DTC,United States,San Diego,California
+BO-11425,Bobby Odegard,DTC,United States,Richmond,Kentucky
+AB-10150,Aimee Bixby,DTC,United States,Long Beach,New York
+JW-16075,Julia West,DTC,United States,Philadelphia,Pennsylvania
+EB-13750,Edward Becker,B2B,United States,Seattle,Washington
+SG-20470,Sheri Gordon,DTC,United States,New York City,New York
+CM-12190,Charlotte Melton,DTC,United States,Philadelphia,Pennsylvania
+AW-10840,Anthony Witt,DTC,United States,Allen,Texas
+MC-18100,Mick Crebagga,DTC,United States,El Paso,Texas
+TT-21460,Tonja Turnell,B2B,United States,Aurora,Illinois
+VG-21805,Vivek Grady,B2B,United States,Virginia Beach,Virginia
+MY-18295,Muhammed Yedwab,B2B,United States,Grapevine,Texas
+RD-19480,Rick Duston,DTC,United States,Olympia,Washington
+DP-13390,Dennis Pardue,B2B,United States,Peoria,Illinois
+ML-17395,Marina Lichtenstein,B2B,United States,Los Angeles,California
+JC-15385,Jenna Caffey,DTC,United States,Kent,Washington
+JG-15160,James Galang,DTC,United States,Los Angeles,California
+MC-17275,Marc Crier,DTC,United States,Lafayette,Louisiana
+NW-18400,Natalie Webber,DTC,United States,Tigard,Oregon
+TB-21280,Toby Braunhardt,DTC,United States,Washington,District of Columbia
+BS-11380,Bill Stewart,B2B,United States,Skokie,Illinois
+HH-15010,Hilary Holden,B2B,United States,San Francisco,California
+CD-12280,Christina DeMoss,DTC,United States,Seattle,Washington
+TH-21100,Thea Hendricks,DTC,United States,Los Angeles,California
+MM-18055,Michelle Moray,DTC,United States,Seattle,Washington
+NS-18505,Neola Schneider,DTC,United States,Dallas,Texas
+RB-19645,Robert Barroso,B2B,United States,North Las Vegas,Nevada
+SW-20455,Shaun Weien,DTC,United States,Suffolk,Virginia
+EB-13930,Eric Barreto,DTC,United States,San Francisco,California
+PS-18760,Pamela Stobb,DTC,United States,Los Angeles,California
+HF-14995,Herbert Flentye,DTC,United States,Indianapolis,Indiana
+HZ-14950,Henia Zydlo,DTC,United States,Columbus,Ohio
+CD-12790,Cynthia Delaney,B2B,United States,San Diego,California
+JK-15205,Jamie Kunitz,DTC,United States,San Francisco,California
+FM-14215,Filia McAdams,B2B,United States,Dublin,Ohio
+ED-13885,Emily Ducich,B2B,United States,San Diego,California
+DA-13450,Dianna Arnett,B2B,United States,Houston,Texas
+JW-15955,Joni Wasserman,DTC,United States,Oakland,California
+RM-19375,Raymond Messe,DTC,United States,Houston,Texas
+ML-17755,Max Ludwig,B2B,United States,Suffolk,Virginia
+CC-12685,Craig Carroll,DTC,United States,Greensboro,North Carolina
+JE-15610,Jim Epp,B2B,United States,Milwaukee,Wisconsin
+RP-19855,Roy Phan,B2B,United States,Kenosha,Wisconsin
+TB-21175,Thomas Boland,B2B,United States,Houston,Texas
+BE-11455,Brad Eason,B2B,United States,Olathe,Kansas
+JF-15565,Jill Fjeld,DTC,United States,Dallas,Texas
+PB-19210,Phillip Breyer,B2B,United States,Tulsa,Oklahoma
+BT-11680,Brian Thompson,DTC,United States,Newark,Ohio
+JL-15235,Janet Lee,DTC,United States,Chicago,Illinois
+CH-12070,Cathy Hwang,B2B,United States,Raleigh,North Carolina
+ND-18460,Neil Ducich,B2B,United States,Macon,Georgia
+BF-10975,Barbara Fisher,B2B,United States,Charlotte,North Carolina
+KH-16330,Katharine Harms,B2B,United States,Bowling Green,Kentucky
+GW-14605,Giulietta Weimer,DTC,United States,Seattle,Washington
+NC-18625,Noah Childs,B2B,United States,Aurora,Colorado
+ME-18010,Michelle Ellison,B2B,United States,San Francisco,California
+BP-11230,Benjamin Patterson,DTC,United States,Spokane,Washington
+JC-15775,John Castell,DTC,United States,San Antonio,Texas
+AS-10090,Adam Shillingsburg,DTC,United States,Charlottesville,Virginia
+AC-10450,Amy Cox,DTC,United States,Minneapolis,Minnesota
+MD-17860,Michael Dominguez,B2B,United States,Indianapolis,Indiana
+DB-13660,Duane Benoit,DTC,United States,Oceanside,New York
+EH-13990,Erica Hackney,DTC,United States,Roswell,Georgia
+EH-13765,Edward Hooks,B2B,United States,Watertown,New York
+SC-20230,Scot Coram,B2B,United States,Arlington,Texas
+JE-15715,Joe Elijah,DTC,United States,Broomfield,Colorado
+AC-10615,Ann Chong,B2B,United States,New York City,New York
+JD-16015,Joy Daniels,DTC,United States,Chicago,Illinois
+CB-12415,Christy Brittain,DTC,United States,Columbus,Ohio
+JS-16030,Joy Smith,DTC,United States,Houston,Texas
+LW-17215,Luke Weiss,DTC,United States,Pasadena,California
+SC-20800,Stuart Calhoun,DTC,United States,Houston,Texas
+AM-10705,Anne McFarland,DTC,United States,Auburn,Alabama
+RH-19510,Rick Huthwaite,B2B,United States,Providence,Rhode Island
+CT-11995,Carol Triggs,DTC,United States,Rochester,Minnesota
+MC-17590,Matt Collister,B2B,United States,Perth Amboy,New Jersey
+CC-12610,Corey Catlett,B2B,United States,Philadelphia,Pennsylvania
+KA-16525,Kelly Andreada,DTC,United States,Ontario,California
+TC-20980,Tamara Chand,B2B,United States,Seattle,Washington
+BF-11080,Bart Folk,DTC,United States,Baltimore,Maryland
+MM-17260,Magdelene Morse,DTC,United States,Wilmington,Delaware
+AH-10120,Adrian Hane,B2B,United States,Tucson,Arizona
+BW-11200,Ben Wallace,DTC,United States,Boynton Beach,Florida
+SW-20245,Scot Wooten,DTC,United States,Stockton,California
+BS-11665,Brian Stugart,DTC,United States,Philadelphia,Pennsylvania
+RF-19345,Randy Ferguson,B2B,United States,Dover,New Hampshire
+WB-21850,William Brown,DTC,United States,Philadelphia,Pennsylvania
+TB-21625,Trudy Brown,DTC,United States,Grand Prairie,Texas
+AF-10870,Art Ferguson,DTC,United States,College Station,Texas
+RB-19435,Richard Bierner,DTC,United States,Saint Louis,Missouri
+KF-16285,Karen Ferguson,B2B,United States,Manteca,California
+JH-15820,John Huston,DTC,United States,Kent,Ohio
+IL-15100,Ivan Liston,DTC,United States,San Francisco,California
+PB-18805,Patrick Bzostek,B2B,United States,Salt Lake City,Utah
+RH-19600,Rob Haberlin,DTC,United States,Huntsville,Alabama
+AW-10930,Arthur Wiediger,B2B,United States,Aurora,Illinois
+ML-17410,Maris LaWare,DTC,United States,Fairfield,Connecticut
+DB-13555,Dorothy Badders,B2B,United States,Jacksonville,Florida
+MH-17620,Matt Hagelstein,B2B,United States,San Francisco,California
+DK-13375,Dennis Kane,DTC,United States,Marion,Ohio
+BT-11440,Bobby Trafton,DTC,United States,Littleton,Colorado
+DB-13405,Denny Blanton,DTC,United States,La Porte,Indiana
+TG-21310,Toby Gnade,DTC,United States,Los Angeles,California
+BF-11005,Barry Franz,B2B,United States,Pasadena,California
+JM-16195,Justin MacKendrick,DTC,United States,Los Angeles,California
+MZ-17335,Maria Zettner,B2B,United States,San Diego,California
+MW-18220,Mitch Webber,DTC,United States,New York City,New York
+MV-17485,Mark Van Huff,DTC,United States,Arlington,Virginia
+SM-20320,Sean Miller,B2B,United States,Monroe,North Carolina
+TP-21415,Tom Prescott,DTC,United States,Seattle,Washington
+JK-15625,Jim Karlsson,DTC,United States,Seattle,Washington
+PJ-18835,Patrick Jones,B2B,United States,Murfreesboro,Tennessee
+RS-19420,Ricardo Sperren,B2B,United States,Seattle,Washington
+SV-20935,Susan Vittorini,DTC,United States,New York City,New York
+BC-11125,Becky Castell,B2B,United States,Peoria,Arizona
+EM-13825,Elizabeth Moffitt,B2B,United States,Sioux Falls,South Dakota
+BM-11575,Brendan Murry,B2B,United States,New York City,New York
+KN-16705,Kristina Nunn,B2B,United States,Fort Collins,Colorado
+KW-16570,Kelly Williams,DTC,United States,Clarksville,Tennessee
+SC-20260,Scott Cohen,B2B,United States,San Francisco,California
+CV-12295,Christina VanderZanden,DTC,United States,Fresno,California
+SG-20605,Speros Goranitis,DTC,United States,New York City,New York
+TM-21010,Tamara Manning,DTC,United States,San Francisco,California
+EM-13810,Eleni McCrary,B2B,United States,Los Angeles,California
+ML-18040,Michelle Lonsdale,B2B,United States,Albuquerque,New Mexico
+CR-12580,Clay Rozendal,B2B,United States,Elmhurst,Illinois
+AZ-10750,Annie Zypern,DTC,United States,New York City,New York
+PW-19240,Pierre Wener,DTC,United States,Louisville,Colorado
+SC-20380,Shahid Collister,DTC,United States,Seattle,Washington
+CM-11935,Carlos Meador,DTC,United States,Fayetteville,North Carolina
+GM-14695,Greg Maxwell,B2B,United States,Los Angeles,California
+TB-21250,Tim Brockman,DTC,United States,New York City,New York
+JM-15865,John Murray,DTC,United States,Jamestown,New York
+SC-20575,Sonia Cooley,DTC,United States,Mishawaka,Indiana
+LS-17200,Luke Schmidt,B2B,United States,Skokie,Illinois
+RR-19315,Ralph Ritter,DTC,United States,San Francisco,California
+DB-12910,Daniel Byrd,B2B,United States,Tampa,Florida
+TT-21220,Thomas Thornton,DTC,United States,Houston,Texas
+LO-17170,Lori Olson,B2B,United States,La Quinta,California
+KD-16615,Ken Dana,B2B,United States,Scottsdale,Arizona
+NB-18580,Nicole Brennan,B2B,United States,Philadelphia,Pennsylvania
+BD-11635,Brian Derr,DTC,United States,Bowling Green,Kentucky
+CM-12235,Chris McAfee,DTC,United States,Carrollton,Texas
+EN-13780,Edward Nazzal,DTC,United States,New York City,New York
+KN-16450,Kean Nguyen,B2B,United States,Jacksonville,Florida
+BO-11350,Bill Overfelt,B2B,United States,Los Angeles,California
+AG-10300,Aleksandra Gannaway,B2B,United States,Los Angeles,California
+MC-17635,Matthew Clasen,B2B,United States,Saint Louis,Missouri
+TA-21385,Tom Ashbrook,B2B,United States,New York City,New York
+JF-15295,Jason Fortune-,DTC,United States,Seattle,Washington
+TT-21265,Tim Taslimi,B2B,United States,Los Angeles,California
+SB-20170,Sarah Bern,DTC,United States,New York City,New York
+CL-12700,Craig Leslie,B2B,United States,Springfield,Missouri
+HG-15025,Hunter Glantz,DTC,United States,Amarillo,Texas
+NL-18310,Nancy Lomonaco,B2B,United States,Los Angeles,California
+RR-19525,Rick Reed,B2B,United States,Lowell,Massachusetts
+TC-21295,Toby Carlisle,DTC,United States,San Diego,California
+SV-20785,Stewart Visinsky,DTC,United States,Pueblo,Colorado
+BE-11410,Bobby Elias,DTC,United States,Lancaster,Ohio
+SC-20680,Steve Carroll,B2B,United States,Columbus,Georgia
+DF-13135,David Flashing,DTC,United States,Vallejo,California
+FH-14350,Fred Harton,DTC,United States,Seattle,Washington
+MS-17530,MaryBeth Skach,DTC,United States,San Diego,California
+RH-19555,Ritsa Hightower,DTC,United States,Tallahassee,Florida
+GA-14515,George Ashbrook,DTC,United States,San Francisco,California
+JP-16135,Julie Prescott,B2B,United States,Columbus,Georgia
+Dp-13240,Dean percer,B2B,United States,Murray,Utah
+MO-17950,Michael Oakman,DTC,United States,Dallas,Texas
+DL-13330,Denise Leinenbach,DTC,United States,Las Cruces,New Mexico
+MH-18025,Michelle Huthwaite,DTC,United States,Seattle,Washington
+DR-12940,Daniel Raglin,B2B,United States,Franklin,Massachusetts
+DM-13015,Darrin Martin,DTC,United States,Encinitas,California
+CA-11965,Carol Adams,B2B,United States,Hoover,Alabama
+AC-10660,Anna Chung,DTC,United States,Huntsville,Texas
+DM-13345,Denise Monton,B2B,United States,Roswell,Georgia
+VF-21715,Vicky Freymann,B2B,United States,Columbus,Indiana
+CC-12370,Christopher Conant,DTC,United States,Fayetteville,North Carolina
+BF-11275,Beth Fritzler,B2B,United States,Tucson,Arizona
+HG-14845,Harry Greene,DTC,United States,Lake Charles,Louisiana
+BP-11155,Becky Pak,DTC,United States,Columbus,Georgia
+EM-14140,Eugene Moren,B2B,United States,Glendale,Arizona
+MA-17995,Michelle Arnett,B2B,United States,Watertown,New York
+AY-10555,Andy Yotov,B2B,United States,Oceanside,California
+GB-14575,Giulietta Baptist,DTC,United States,Philadelphia,Pennsylvania
+JB-16045,Julia Barnett,B2B,United States,Columbus,Georgia
+MG-17875,Michael Grace,B2B,United States,New York City,New York
+SR-20425,Sharelle Roach,B2B,United States,Louisville,Colorado
+JB-16000,Joy Bell-,DTC,United States,Brownsville,Texas
+DM-12955,Dario Medina,B2B,United States,Lincoln Park,Michigan
+TC-21475,Tony Chapman,B2B,United States,Columbus,Georgia
+SW-20350,Sean Wendt,B2B,United States,Detroit,Michigan
+RE-19450,Richard Eichhorn,DTC,United States,Dallas,Texas
+BF-11215,Benjamin Farhat,B2B,United States,Albuquerque,New Mexico
+KB-16405,Katrina Bavinger,B2B,United States,Apple Valley,California
+JG-15310,Jason Gross,B2B,United States,Providence,Rhode Island
+EC-14050,Erin Creighton,DTC,United States,New York City,New York
+EB-14110,Eugene Barchas,DTC,United States,Philadelphia,Pennsylvania
+JP-15460,Jennifer Patt,B2B,United States,Oceanside,New York
+CS-11845,Cari Sayre,B2B,United States,Seattle,Washington
+GH-14410,Gary Hansen,B2B,United States,Glendale,Arizona
+PT-19090,Pete Takahito,DTC,United States,Houston,Texas
+JL-15130,Jack Lebron,DTC,United States,Houston,Texas
+AH-10030,Aaron Hawkins,B2B,United States,Philadelphia,Pennsylvania
+CC-12475,Cindy Chapman,DTC,United States,New York City,New York
+DW-13195,David Wiener,B2B,United States,Houston,Texas
+SJ-20215,Sarah Jordon,DTC,United States,Grand Prairie,Texas
+BG-11740,Bruce Geld,DTC,United States,Philadelphia,Pennsylvania
+LB-16795,Laurel Beltran,B2B,United States,Highland Park,Illinois
+CM-11815,Candace McMahon,B2B,United States,Pasadena,Texas
+EH-14185,Evan Henry,DTC,United States,Decatur,Alabama
+TS-21505,Tony Sayre,DTC,United States,Columbia,Tennessee
+PR-18880,Patrick Ryan,DTC,United States,Oakland,California
+LC-17050,Liz Carlisle,DTC,United States,Mission Viejo,California
+CS-12490,Cindy Schnelling,B2B,United States,Conroe,Texas
+DH-13075,Dave Hallsten,B2B,United States,Richmond,Kentucky
+JO-15145,Jack O'Briant,B2B,United States,Philadelphia,Pennsylvania
+AH-10690,Anna Häberlin,B2B,United States,New York City,New York
+HJ-14875,Heather Jas,B2B,United States,Jacksonville,Florida
+MH-17455,Mark Hamilton,DTC,United States,Jacksonville,North Carolina
+RD-19930,Russell D'Ascenzo,DTC,United States,Austin,Texas
+SC-20020,Sam Craven,DTC,United States,Plano,Texas
+SU-20665,Stephanie Ulpright,B2B,United States,Jackson,Mississippi
+FC-14335,Fred Chung,B2B,United States,Mesquite,Texas
+RB-19330,Randy Bradley,DTC,United States,Philadelphia,Pennsylvania
+NC-18535,Nick Crebassa,B2B,United States,Dallas,Texas
+DB-12970,Darren Budd,B2B,United States,Los Angeles,California
+MF-17665,Maureen Fritzler,B2B,United States,Toledo,Ohio
+RM-19750,Roland Murray,DTC,United States,New York City,New York
+VM-21835,Vivian Mathis,DTC,United States,Newark,Delaware
+EJ-13720,Ed Jacobs,DTC,United States,San Diego,California
+NC-18415,Nathan Cano,DTC,United States,Jacksonville,North Carolina
+LS-17230,Lycoris Saunders,DTC,United States,Dover,Delaware
+KE-16420,Katrina Edelman,B2B,United States,Bristol,Tennessee
+DH-13675,Duane Huffman,B2B,United States,Quincy,Massachusetts
+PF-19120,Peter Fuller,DTC,United States,Gilbert,Arizona
+VT-21700,Valerie Takahito,B2B,United States,Philadelphia,Pennsylvania
+MG-17695,Maureen Gnade,DTC,United States,Buffalo,New York
+SP-20920,Susan Pistek,DTC,United States,Los Angeles,California
+CS-12175,Charles Sheldon,B2B,United States,Columbia,Tennessee
+DK-12895,Dana Kaydos,DTC,United States,Kenosha,Wisconsin
+KM-16660,Khloe Miller,DTC,United States,Roswell,Georgia
+AA-10645,Anna Andreadi,DTC,United States,Chester,Pennsylvania
+DD-13570,Dorothy Dickinson,DTC,United States,Houston,Texas
+AH-10465,Amy Hunt,DTC,United States,New York City,New York
+TP-21565,Tracy Poddar,B2B,United States,Aurora,Colorado
+EK-13795,Eileen Kiefer,B2B,United States,Santa Ana,California
+CR-12820,Cyra Reiten,B2B,United States,New York City,New York
+SG-20890,Susan Gilcrest,B2B,United States,Mcallen,Texas
+AH-10585,Angele Hood,DTC,United States,Chicago,Illinois
+NF-18475,Neil Französisch,B2B,United States,Rockford,Illinois
+BS-11365,Bill Shonely,B2B,United States,New York City,New York
+SH-20635,Stefanie Holloman,B2B,United States,Jackson,Tennessee
+RD-19720,Roger Demir,DTC,United States,Daytona Beach,Florida
+AG-10330,Alex Grayson,DTC,United States,Stockton,California
+GR-14560,Georgia Rosenberg,B2B,United States,San Francisco,California
+VS-21820,Vivek Sundaresam,DTC,United States,Los Angeles,California
+TM-21490,Tony Molinari,DTC,United States,Oklahoma City,Oklahoma
+TS-21430,Tom Stivers,B2B,United States,Los Angeles,California
+DB-13360,Dennis Bolton,B2B,United States,New York City,New York
+NR-18550,Nick Radford,DTC,United States,Aurora,Illinois
+CS-11860,Cari Schnelling,DTC,United States,Jacksonville,North Carolina
+MF-18250,Monica Federle,B2B,United States,Los Angeles,California
+LW-17125,Liz Willingham,DTC,United States,Norwich,Connecticut
+AR-10345,Alex Russell,B2B,United States,Lawrence,Massachusetts
+KS-16300,Karen Seio,B2B,United States,Lehi,Utah
+AB-10015,Aaron Bergman,DTC,United States,Seattle,Washington
+LR-17035,Lisa Ryan,B2B,United States,Philadelphia,Pennsylvania
+SS-20410,Shahid Shariari,DTC,United States,Los Angeles,California
+JM-15580,Jill Matthias,DTC,United States,Monroe,North Carolina
+JK-15325,Jason Klamczynski,B2B,United States,Dallas,Texas
+DM-13525,Don Miller,B2B,United States,Houston,Texas
+ML-18265,Muhammed Lee,DTC,United States,Seattle,Washington
+MH-17290,Marc Harrigan,B2B,United States,Los Angeles,California
+FC-14245,Frank Carlisle,B2B,United States,Lakewood,Ohio
+TH-21115,Thea Hudgings,B2B,United States,Philadelphia,Pennsylvania
+JK-16090,Juliana Krohn,DTC,United States,Omaha,Nebraska
+SB-20185,Sarah Brown,DTC,United States,Concord,New Hampshire
+BG-11035,Barry Gonzalez,DTC,United States,Monroe,Louisiana
+BW-11065,Barry Weirich,DTC,United States,Raleigh,North Carolina
+MG-18205,Mitch Gastineau,B2B,United States,Jacksonville,Florida
+DO-13645,Doug O'Connell,DTC,United States,Los Angeles,California
+BP-11050,Barry Pond,B2B,United States,Cranston,Rhode Island
+TS-21655,Trudy Schmidt,DTC,United States,Milwaukee,Wisconsin
+EM-14200,Evan Minnotte,B2B,United States,Virginia Beach,Virginia
+AO-10810,Anthony O'Donnell,B2B,United States,Los Angeles,California
+MH-17440,Mark Haberlin,B2B,United States,New York City,New York
+SS-20515,Shirley Schmidt,B2B,United States,Louisville,Kentucky
+LD-16855,Lela Donovan,B2B,United States,Chicago,Illinois
+VP-21760,Victoria Pisteka,B2B,United States,San Francisco,California
+TC-21145,Theresa Coyne,B2B,United States,Lakewood,New Jersey
+IM-15055,Ionia McGrath,DTC,United States,Roseville,California
+AR-10570,Anemone Ratner,DTC,United States,Columbus,Georgia
+CM-12715,Craig Molinari,B2B,United States,Huntsville,Texas
+FW-14395,Fred Wasserman,B2B,United States,Huntsville,Alabama
+LC-16960,Lindsay Castell,B2B,United States,Arlington,Virginia
+HE-14800,Harold Engle,B2B,United States,Chicago,Illinois
+BD-11560,Brendan Dodson,B2B,United States,Fresno,California
+HD-14785,Harold Dahlen,B2B,United States,Philadelphia,Pennsylvania
+CJ-11875,Carl Jackson,B2B,United States,Philadelphia,Pennsylvania
+RS-19870,Roy Skaria,B2B,United States,Burlington,Iowa
+SC-20845,Sung Chung,DTC,United States,Arlington Heights,Illinois
+RE-19405,Ricardo Emerson,DTC,United States,Kent,Ohio
+SM-20905,Susan MacKendrick,DTC,United States,Newark,Ohio
